@@ -1,10 +1,9 @@
 package praktikum5;
 
-public class KymmenKuniYks {
+public class Paarisarvud {
 	public static void main(String[] args) {
-
-		for (int i = 10; i > 0; i--) {
+		int i;
+		for (i = 0; i <= 10; i += 2)
 			System.out.println(i);
-		}
 	}
 }
