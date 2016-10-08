@@ -1,3 +1,4 @@
+package praktikum6;
 //package praktikum6;
 //
 //public class kulljakiri {

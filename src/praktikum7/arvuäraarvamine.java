@@ -2,7 +2,7 @@ package praktikum7;
 
 import lib.TextIO;
 
-public class arvu√§raarvamine {
+public class arvu‰raarvamine {
 
 	public static void main(String[] args) {
 
