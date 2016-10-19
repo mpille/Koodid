@@ -2,7 +2,7 @@ package praktikum9;
 
 import lib.TextIO;
 
-public class Sõnapalindroom {
+public class S�napalindroom {
 
 	public static void main(String[] args) {
 		System.out.println("Sisestage sõna");
