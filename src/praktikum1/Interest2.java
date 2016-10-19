@@ -1,4 +1,5 @@
 package praktikum1;
+import lib.TextIO;
 
 /**
  * This class implements a simple program that will compute
