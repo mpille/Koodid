@@ -2,7 +2,7 @@ package praktikum9;
 
 import lib.TextIO;
 
-public class Sınapikkus {
+public class Sonapikkus {
 	public static void main(String[] args) {
 		String[] nimed = new String[10];
 		System.out.println("Sisesta 10 s√µna");

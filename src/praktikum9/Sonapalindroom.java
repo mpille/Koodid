@@ -2,7 +2,7 @@ package praktikum9;
 
 import lib.TextIO;
 
-public class Sınapalindroom {
+public class Sonapalindroom {
 
 	public static void main(String[] args) {
 		System.out.println("Sisestage s√µna");

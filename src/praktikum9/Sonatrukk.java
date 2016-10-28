@@ -1,6 +1,6 @@
 package praktikum9;
 
-public class Sõnatrükk {
+public class Sonatrukk {
 
 	public static void main(String[] args) {
 
